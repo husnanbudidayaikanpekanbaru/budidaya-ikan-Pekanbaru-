@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nila Nusantara</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; background-color: #f4fef7; color: #333; }
+    header { background-color: #2c786c; color: white; padding: 1em; text-align: center; }
+    nav a { margin: 0 15px; color: white; text-decoration: none; }
+    section { padding: 2em; }
+    footer { background: #2c786c; color: white; text-align: center; padding: 1em; margin-top: 2em; }
+    .btn { background: #5ca08e; padding: 10px 20px; color: white; text-decoration: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Nila Nusantara</h1>
+  <p>Budidaya Berbagai Jenis Ikan Berkualitas, Segar dari Kolam</p>
+  <nav>
+    <a href="#tentang">Tentang</a>
+    <a href="#produk">Produk</a>
+    <a href="#galeri">Galeri</a>
+    <a href="#kontak">Kontak</a>
+  </nav>
+</header>
+
+<section id="tentang">
+  <h2>Tentang Kami</h2>
+  <p>Ikan Nusantara adalah usaha budidaya berbagai jenis ikan yang berlokasi di pekanbaru dengan kolam alami. Kami menyediakan ikan nila,gurami,lele dan belut segar hasil panen sendiri, serta membuka peluang kemitraan budidaya.</p>
+</section>
+
+<section id="produk">
+  <h2>Produk & Layanan</h2>
+  <ul>
+    <li>Ikan Nila Segar (ukuran konsumsi)</li>
+    <li>Benih Ikan Nila </li>
+    <li>Ikan Gurami segar (ukuran konsumsi)</li>
+		<li>Benih Ikan Gurami </li>
+		<li>Belut segar (ukuran konsumsi)</li>
+		<li>Benih Belut </li>
+		<li>Ikan Lele segar (ukuran konsumsi)</li>
+		<li>Benih Ikan Patin </li>
+    <li>Kemitraan Peternakan</li>
+  </ul>
+</section>
+
+<section id="galeri">
+  <h2>Galeri Kolam</h2>
+  <p>(Tambahkan foto kolam dan panen di sini nanti)</p>
+</section>
+
+<section id="kontak">
+  <h2>Kontak Kami</h2>
+  <p>Lokasi: Pekanbaru, Prof. Riau</p>
+  <p>WhatsApp: <a class="btn" href="https://wa.me/6281374701005" target="_blank">Hubungi via WhatsApp</a></p>
+  <p>Email: info@nilanusantara.com</p>
+  <p><a href="https://maps.google.com" target="_blank">Lihat di Google Maps</a></p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Nila Nusantara. Semua hak dilindungi.</p>
+</footer>
+
+</body>
+</html>
